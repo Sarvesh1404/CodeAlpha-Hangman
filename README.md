@@ -54,4 +54,4 @@ python hangman_game.py
 
 **SARVESH S**
 
-GitHub: https://github.com/YasarArfat8347
+GitHub: https://github.com/Sarvesh1404
